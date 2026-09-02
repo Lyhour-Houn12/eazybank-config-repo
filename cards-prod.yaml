@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EAZYBANK cards related to RabbitMq PROD APIs"
+  message: "Welcome to EAZYBANK cards related to production APIs"
   contactDetails:
     name: "JING - Product Owner"
     email: "jing@gmail.com"
