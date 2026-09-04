@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EAZYBANK cards related to rabbitMq local APIs"
   contactDetails:
-    name: "Houn Lyhour - Software Engineering"
+    name: "Jing - Software Engineering"
     email: "lhour@gmail.com"
   onSupportCall:
     - (111) 321-1234
