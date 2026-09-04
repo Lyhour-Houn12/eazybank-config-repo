@@ -2,7 +2,7 @@ build:
   version: "3.2"
 
 loans:
-  message: "Welcome to EAZYBANK loans related to local APIs"
+  message: "Welcome to EAZYBANK loans related to rabbitMq local APIs"
   contactDetails:
     name: "JING - Full Stack Developer"
     email: "jing@gmail.com"
