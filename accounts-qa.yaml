@@ -6,6 +6,4 @@ accounts:
   contactDetails:
     name: "Jing Doe - Developer"
     email: "jing@gmail.com"
-  onCallSupport:
-    -(666) 666-1264
-    -(666) 666-1835
+  onCallSupport: -(666) 666-1264 -(666) 666-1835
